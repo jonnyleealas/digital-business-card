@@ -17,7 +17,6 @@ const Main = () => {
                 <About />
                 <Interests />
             </div>
-
             <Footer />
         </div>
     )
